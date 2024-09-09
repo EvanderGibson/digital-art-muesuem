@@ -6,7 +6,8 @@ body{
 	text-align:center;
 }
 .logo{
-	
+	height:20px;
+	wdith:20px;
 }
 .container-fluid{
 	color: white;
