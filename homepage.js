@@ -1,6 +1,9 @@
 $(document).ready(function(){
 
- $("introzoom").animate({left: '250px'});
+	$(".about") .click(function() {
+		$(".abouttext ").toggle("fast");
+		
+	});
 
 });
 

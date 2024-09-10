@@ -51,3 +51,7 @@ body{
   mix-blend-mode: multiply;
 
 }
+
+.hidden{
+	display:none;
+}
