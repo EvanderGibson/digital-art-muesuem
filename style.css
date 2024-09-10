@@ -1,6 +1,16 @@
 body{
-	background-color:black;
+	
+	
+	 background: url("bg2.jpg") ;
+	background-size:  cover;
+    background-repeat: no-repeat;
+
+  
+  
 }
+
+
+
 .homepagetext{
 	color:white;
 	text-align:center;
@@ -11,4 +21,8 @@ body{
 }
 .container-fluid{
 	color: white;
+}
+
+.name{
+	
 }
