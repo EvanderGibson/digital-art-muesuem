@@ -5,9 +5,7 @@ body{
 	background-size:  cover;
     background-repeat: no-repeat;
  
- height:100%;
-	overflow: none;
-	margin:auto;
+
 }
 .homepage-container {
   position: relative;
@@ -19,9 +17,8 @@ body{
 	color:white;
 	text-align:center;
 	color: white;
-	padding-left: 20px;
-	padding-right: 20px;
     font-size:2vw;
+	margin:0;
 }
 .logo{
 	height:40px;
@@ -36,7 +33,7 @@ body{
   background-image: url("");
   background-size: cover;
   position: relative;
-  height: 300px;
+
 }
 
 .introzoom {
@@ -45,13 +42,17 @@ body{
   font-size: 9vw; 
   font-weight: bold;
   margin: 0 auto;
+  padding: 0;
   text-align: center;
-
-
   mix-blend-mode: multiply;
 
 }
 
+<<<<<<< HEAD
 .hidden{
 	display:none;
 }
+=======
+.nav-link{
+	
+>>>>>>> 79ac40a9848f777b5a33e35ee26991d9360fa2ff
