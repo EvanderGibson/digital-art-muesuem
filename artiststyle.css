@@ -1,9 +1,7 @@
 body{
 	
 	
-	 background: url("bg2.jpg");
-	background-size:  cover;
-    background-repeat: no-repeat;
+	background-color:black;
  
 
 }
@@ -29,22 +27,16 @@ body{
 }
 
 
-.intro-image-container {
-  background-image: url("");
-  background-size: cover;
-  position: relative;
 
-}
-
-.introzoom {
-  background-color: black;
+.mush {
+ 
   color: white;
   font-size: 9vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 0;
   text-align: center;
-  mix-blend-mode: multiply;
+
 
 }
 
