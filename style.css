@@ -26,6 +26,13 @@ body{
 }
 
 
+
+.intro-image-container {
+  background-image: url("");
+  background-size: cover;
+  position: relative;
+}
+
 .intro-image-container {
   position: relative;
 }
@@ -45,4 +52,9 @@ body{
 
 .hidden{
 	visibility:hidden;
+}
+
+
+.nav-link{
+	
 }

@@ -1,0 +1,50 @@
+body{
+	
+	
+	background-color:black;
+ 
+
+}
+.homepage-container {
+  position: relative;
+  font-family: Arial;
+}
+
+
+.homepagetext{
+	color:white;
+	text-align:center;
+	color: white;
+    font-size:2vw;
+	margin:0;
+}
+.logo{
+	height:40px;
+	width:40px;
+}
+.container-fluid{
+	color: white;
+}
+
+
+
+.mush {
+ 
+  color: white;
+  font-size: 9vw; 
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+
+
+}
+
+
+.hidden{
+	display:none;
+}
+
+.nav-link{
+	
+
