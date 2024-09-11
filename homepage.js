@@ -1,11 +1,7 @@
 $(document).ready(function(){
 
-
 	$(".about") .click(function() {
-		$(".abouttext ").toggle("fast");
-		
+		$(".abouttext ").css("visibility", "visible");
 	});
-
-
 });
 

@@ -1,15 +1,11 @@
 body{
 	
-	
-	 background: url("bg2.jpg");
-	background-size:  cover;
-    background-repeat: no-repeat;
- 
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: 2000px 1500px;
+  background-position: center;
+  
 
-}
-.homepage-container {
-  position: relative;
-  font-family: Arial;
 }
 
 
@@ -17,7 +13,8 @@ body{
 	color:white;
 	text-align:center;
 	color: white;
-    font-size:2vw;
+	text-shadow: 2px 2px 2px black;
+    font-size:40px;
 	margin:0;
 }
 .logo{
@@ -29,11 +26,15 @@ body{
 }
 
 
+
 .intro-image-container {
   background-image: url("");
   background-size: cover;
   position: relative;
+}
 
+.intro-image-container {
+  position: relative;
 }
 
 .introzoom {
@@ -50,10 +51,11 @@ body{
 
 
 .hidden{
-	display:none;
+	visibility:hidden;
 }
 
 
+<<<<<<< HEAD
 	
 .center{
 	
@@ -68,5 +70,8 @@ body{
 	width:600;
 }
 	
+=======
+.nav-link{
+>>>>>>> b96620bebb5afdb2e061444ed6ab788aa34c81f5
 	
-
+}
