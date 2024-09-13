@@ -18,6 +18,14 @@ body{
     font-size:2vw;
 	margin:0;
 }
+.titletext{
+	color:white;
+	text-align:center;
+	color: white;
+    font-size:4vw;
+	margin:0;
+	margin-bottom:20px;
+}
 .logo{
 	height:40px;
 	width:40px;
