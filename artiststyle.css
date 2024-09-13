@@ -53,6 +53,10 @@ body{
 	display:none;
 }
 
-.nav-link{
+.border{
+	border: 2px solid white;
+  border-radius: 12px;
+  padding: 5px;
+}
 	
 
