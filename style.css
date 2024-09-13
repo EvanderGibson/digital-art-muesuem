@@ -51,11 +51,11 @@ body{
 
 
 .hidden{
-	visibility:hidden;
+	display:none;
 }
 
 
-<<<<<<< HEAD
+
 	
 .center{
 	
@@ -70,8 +70,8 @@ body{
 	width:600;
 }
 	
-=======
+
 .nav-link{
->>>>>>> b96620bebb5afdb2e061444ed6ab788aa34c81f5
+
 	
 }
