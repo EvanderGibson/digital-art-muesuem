@@ -1,11 +1,10 @@
 body{
 	
-  background-image: url("background.png");
+  background-image: url("tallrhino.webp");
   background-repeat: no-repeat;
-  background-size: 2000px 1500px;
+  background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  
 
 }
 
@@ -17,6 +16,7 @@ body{
 	text-shadow: 2px 2px 2px black;
     font-size:40px;
 	margin:0;
+	padding:30px;
 }
 .logo{
 	height:40px;
@@ -56,11 +56,7 @@ body{
 }
 
 .hidden1{
-	visibility:hidden;
-}
-
-.center{
-	
+	display:none;
 }
 
 #gallery{
@@ -77,4 +73,18 @@ body{
 	height:50vw; 
 	margin:auto; 
 	object-fit: cover;
+}
+
+.carousel-caption{
+	font-size:25px;
+	text-shadow: 2px 2px 2px black;
+	
+	a {
+		text-decoration:none;
+		color:white;
+	}
+}
+
+h1{
+	margin:0;
 }
