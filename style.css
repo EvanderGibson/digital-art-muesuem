@@ -17,6 +17,8 @@ body{
     font-size:40px;
 	margin:0;
 	padding:30px;
+	background-color: #00000030
+	
 }
 .logo{
 	height:40px;
@@ -91,4 +93,35 @@ body{
 
 h1{
 	margin:0;
+}
+
+footer {
+  background-color: black;
+  padding: 50px;
+  text-align: center;
+  color: white;
+  height: 350px;
+  
+  p{
+	  font-size:10px;
+  }
+ 
+  a{
+	  text-decoration:none;
+	  color:white;
+  }  
+}
+
+.img-text-container{
+	content: "";
+	display: table;
+	clear: both;
+	
+	img{
+		float:left;
+		max-width:100%;
+	}
+	p{
+		float:left
+	}
 }
