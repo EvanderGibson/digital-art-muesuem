@@ -94,3 +94,20 @@ body{
 	margin:0;
 	margin-bottom:20px;
 }
+
+footer {
+  background-color: black;
+  padding: 50px;
+  text-align: center;
+  color: white;
+  height: 350px;
+  
+  p{
+	  font-size:10px;
+  }
+ 
+  a{
+	  text-decoration:none;
+	  color:white;
+  }  
+}
